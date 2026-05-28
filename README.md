@@ -1,6 +1,9 @@
 # SubTrack
 
 > A drag-and-drop subscription cost tracker. One HTML file. No install. No server. No account.
+>
+> Check out the subscription tracker here: [[Subscription Tracker](https://stevebowden.github.io/subscription-tracker/)](https://stevebowden.github.io/subscription-tracker/)
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![No build](https://img.shields.io/badge/build-none-brightgreen.svg)](#)
